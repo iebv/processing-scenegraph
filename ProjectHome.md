@@ -1,0 +1,1 @@
+A simple 2D scenegraph implementation for Processing, designed for simplicity, easy of use (for beginning programmers), and education, and not necessarily speed of efficiency.
